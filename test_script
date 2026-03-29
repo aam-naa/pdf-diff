@@ -1,3 +1,0 @@
-from pdfdiff import pdf_diff
-
-print(pdf_diff("Student_Integrity_and_Misconduct_Procedure-2.pdf", "Student_Integrity_and_Misconduct_Procedure.pdf")[:5])
