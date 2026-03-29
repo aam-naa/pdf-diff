@@ -9,7 +9,7 @@ This script can be installed as a Python package using the following commands:
 
 ```bash
 git clone https://github.com/aam-naa/pdf-diff.git
-cd pdfdiff
+cd pdf-diff
 pip install .
 ```
 
