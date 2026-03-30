@@ -1,4 +1,4 @@
-# pdf-diff
+# pdf-diff: Prototype for GSOC 2026
 
 Prototype for the Wayback PDF Changes project for GSOC 2026. 
 
